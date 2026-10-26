@@ -27,6 +27,13 @@ El proyecto también contiene información sobre los clientes frecuentes de la t
 | Panela | $3.500 |
 | Gaseosa | $1.000 |
 
+## 🛵 Domicilios
+
+¡Llevamos tus compras directamente a la puerta de tu casa!
+
+* **Horario de atención:** Lunes a Sábado de 8:00 a.m. a 8:00 p.m. (Domingos y festivos de 9:00 a.m. a 4:00 p.m.).
+* **Zona de cobertura:** Barrio Santa María, La Miel y sectores aledaños en Itagüí.
+
 ## 👥 Clientes frecuentes
 
 | Cliente | Dirección de referencia |
@@ -176,7 +183,7 @@ __pycache__/
 
 ## 👨‍💻 Autor
 
-**Daniel Esteban Narváez Ara**
+**Santiago Usuaga Arboleda**
 
 Proyecto académico: Tienda Don Pedro.
 
